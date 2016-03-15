@@ -7,21 +7,21 @@
 
 # Site settings
 title: Awesome Site Title
-email: your-email@domain.com
+email: pulimento+github@gmail.com
 description: >
-  Awesome site description here
+  Esta es la descripción de esta página
 logo: "/assets/images/logo.jpg"
 baseurl: "" # the subpath of your site, e.g. /blog
-url: "http://yourdomain.com" # the base hostname & protocol for your site
+url: "http://pulimento.github.io" # the base hostname & protocol for your site
 paginate:	5 # The number of posts to show per page on your homepage
 
-name: 'Your Name'
+name: 'Javi Pulido'
 bio: >
-  Mea suas vituperatoribus et, virtute corpora quaestio cum ut.
-  Ne solet nostrum complectitur pri, vis ut inani populo.
+  Mi biografía.
+  Simplemente.
 author_image: "/assets/images/author.jpg"
-twitter_username: jekyllrb
-github_username:  jekyll
+twitter_username:
+github_username:  pulimento
 
 # Build settings
 markdown: kramdown

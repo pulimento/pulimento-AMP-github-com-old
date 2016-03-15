@@ -4,7 +4,11 @@ title: About
 permalink: /about/
 ---
 
-<amp-img width="600" height="300" layout="responsive" src="http://lorempixel.com/600/300/sports"></amp-img>
+<amp-img width="600" height="300" layout="responsive" src="https://dummyimage.com/600x400/ddd/0010ee.png&text=LOREM+IPSUM"></amp-img>
+
+## About Page
+
+> About me
 
 Lorem ipsum dolor sit amet, consectetur adipiscing elit. Ut ac augue libero.
 Fusce ac tempor dolor. Ut est dui, gravida a consequat aliquet, fermentum
